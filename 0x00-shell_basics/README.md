@@ -6,3 +6,4 @@
 5. List hidden files in long format ls -la
 6. Display current directory content with user and group IDs displayed numerically ls -lna
 7. How to make a directory mkdir /dir/dir
+8. Move a file from dir to dir mv /dir/file /dir/dir/
