@@ -17,3 +17,4 @@
 16. Move files with a specific criteria mv [[:upper:]]* /dir/file
 17. Delete file that end with a specific character rm *character
 18. Script that creats multiple directories while in pwd mkdir -p dir/dir/dir
+19. List all file in a line separated by (,) dir should end with(/) ls -xapm
