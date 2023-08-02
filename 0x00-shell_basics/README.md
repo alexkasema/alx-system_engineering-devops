@@ -7,3 +7,4 @@
 6. Display current directory content with user and group IDs displayed numerically ls -lna
 7. How to make a directory mkdir /dir/dir
 8. Move a file from dir to dir mv /dir/file /dir/dir/
+9. Delete a file in a directory rm /dir/dir/file
