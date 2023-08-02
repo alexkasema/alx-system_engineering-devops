@@ -10,3 +10,4 @@
 9. Delete a file in a directory rm /dir/dir/file
 10. Delete a directory rm -r /dir/dir
 11. Changing working directory to previous one cd -
+12. List all file in current and parent directory ls -la . .. /boot
