@@ -13,3 +13,4 @@
 12. List all file in current and parent directory ls -la . .. /boot
 13. Show file type file /dir/file-name
 14. Creating a symbolic link (ln -s /dir/file symbole-name)
+15. Copy specific file types cp -u *.filetype ..
