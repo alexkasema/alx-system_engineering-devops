@@ -3,3 +3,4 @@
 2. Displaying content of list of current directory ls
 3. Showed how to change directories cd
 4. List files in long format ls -l
+5. List hidden files in long format ls -la
