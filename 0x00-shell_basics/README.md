@@ -15,3 +15,4 @@
 14. Creating a symbolic link (ln -s /dir/file symbole-name)
 15. Copy specific file types cp -u *.filetype ..
 16. Move files with a specific criteria mv [[:upper:]]* /dir/file
+17. Delete file that end with a specific character rm *character
