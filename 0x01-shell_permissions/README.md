@@ -28,3 +28,5 @@ Script that creates a directory and sets it permissions
 Script that changes the group owner of a file
 ## 100-change_owner_and_group chown user:group *
 Script that changes ownership and group of all files and directories in main dir
+## 101-symbolic_link_permissions chown -h user:group file
+Script that changes owner and group owner of a SYMBOLIC File
