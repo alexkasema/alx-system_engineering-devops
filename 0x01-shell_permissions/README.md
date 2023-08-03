@@ -26,3 +26,5 @@ Script that adds execut permissions to all its sub directories to all users
 Script that creates a directory and sets it permissions
 ## 13-change_group chgrp grp file
 Script that changes the group owner of a file
+## 100-change_owner_and_group chown user:group *
+Script that changes ownership and group of all files and directories in main dir
