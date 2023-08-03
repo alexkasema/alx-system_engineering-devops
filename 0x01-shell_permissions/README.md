@@ -8,3 +8,5 @@ script that prints all the groups the current user is part of (groups).
 Script that changes file ownership - must be superuser (chown new-owner file)
 ## 4-empty
 Script that creates an empty file (touch file)
+## 5-execute
+Script that adds execute permissions to owner of file (chmod u+x file)
