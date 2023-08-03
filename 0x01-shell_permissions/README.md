@@ -20,5 +20,7 @@ Script that gives only the other users all permissions to file
 Script that sets file permissions specifically to chmod 753
 ## 10-mirror_permissions chmod --reference=file file_to_match
 Script that sets the permissions of two different files to be the same
-## 11-directories_permissions
+## 11-directories_permissions chmod -R a+X .
 Script that adds execut permissions to all its sub directories to all users
+## 12-directory_permissions mkdir -m 751 dir
+Script that creates a directory and sets it permissions
