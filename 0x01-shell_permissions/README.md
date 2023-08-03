@@ -1,4 +1,4 @@
-# 0-iam_betty
+## 0-iam_betty
 This script switches between users
 ## 1-who_am_i
 This script prints out the username of the logged in user (whoami)
@@ -10,3 +10,5 @@ Script that changes file ownership - must be superuser (chown new-owner file)
 Script that creates an empty file (touch file)
 ## 5-execute
 Script that adds execute permissions to owner of file (chmod u+x file)
+## 6-multiple_permissions
+Script that adds multiple permisions to a file
