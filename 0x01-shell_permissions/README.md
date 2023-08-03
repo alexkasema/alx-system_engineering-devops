@@ -16,3 +16,5 @@ Script that adds multiple permisions to a file
 script that adds execution permission to the owner, the group owner and the other users, to the file
 ## 8-James_Bond
 Script that gives only the other users all permissions to file
+## 9-John_Doe
+Script that sets file permissions specifically to chmod 753
