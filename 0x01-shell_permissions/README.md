@@ -30,3 +30,5 @@ Script that changes the group owner of a file
 Script that changes ownership and group of all files and directories in main dir
 ## 101-symbolic_link_permissions chown -h user:group file
 Script that changes owner and group owner of a SYMBOLIC File
+## 102-if_only chown --from=user:grp new-user file-name
+Script to change onwer of file with conditions
