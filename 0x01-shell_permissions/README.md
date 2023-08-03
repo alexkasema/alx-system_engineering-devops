@@ -6,3 +6,5 @@ This script prints out the username of the logged in user (whoami)
 script that prints all the groups the current user is part of (groups).
 ## 3-new_owner
 Script that changes file ownership - must be superuser (chown new-owner file)
+## 4-empty
+Script that creates an empty file (touch file)
