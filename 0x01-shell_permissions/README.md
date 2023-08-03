@@ -18,3 +18,5 @@ script that adds execution permission to the owner, the group owner and the othe
 Script that gives only the other users all permissions to file
 ## 9-John_Doe
 Script that sets file permissions specifically to chmod 753
+## 10-mirror_permissions chmod --reference=file file_to_match
+Script that sets the permissions of two different files to be the same
