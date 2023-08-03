@@ -12,5 +12,7 @@ Script that creates an empty file (touch file)
 Script that adds execute permissions to owner of file (chmod u+x file)
 ## 6-multiple_permissions
 Script that adds multiple permisions to a file
-## 7-everybody
+## 7-everybody chmod ugo+x file
 script that adds execution permission to the owner, the group owner and the other users, to the file
+## 8-James_Bond
+Script that gives only the other users all permissions to file
