@@ -24,3 +24,5 @@ Script that sets the permissions of two different files to be the same
 Script that adds execut permissions to all its sub directories to all users
 ## 12-directory_permissions mkdir -m 751 dir
 Script that creates a directory and sets it permissions
+## 13-change_group chgrp grp file
+Script that changes the group owner of a file
