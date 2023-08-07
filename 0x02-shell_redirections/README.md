@@ -32,3 +32,5 @@ A script that displays content from a file given a ceratin pattern
 A script that displays no. of lines from content in a file that have a certain criteria
 ## 16-whatsnext
 A script that displays lines containig a pattern and 3 lines after
+## 17-hidethisword
+A script that displays all lines in a file that do not contain a certain pattern
