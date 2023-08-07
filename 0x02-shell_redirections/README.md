@@ -46,3 +46,5 @@ A script that reverses its Input
 A script that displays all users and their home directories sorted by users
 ## 100-empty_casks
 A script that finds all empty files and dir in cuurent dir and sub-dir
+## 101-gifs
+A script that lists all file ending with a certain extension in the current and sub dirs
