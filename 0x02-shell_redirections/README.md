@@ -36,3 +36,5 @@ A script that displays lines containig a pattern and 3 lines after
 A script that displays all lines in a file that do not contain a certain pattern
 ## 18-letteronly
 Display all lines of a file starting with a letter
+## 19-AZ
+Replacing characters in a file
