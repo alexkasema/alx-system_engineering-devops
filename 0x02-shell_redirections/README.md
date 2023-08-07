@@ -24,3 +24,5 @@ A script that deletes all file in a directory ending with a certain extension
 A script that counts the number of directories in the parent dir excluding itself
 ## 12-newest_files
 A script that displays 10 newest files in a directory line by line
+## 13-unique (sort | uniq -u)
+A script that takes a list of inputs and prints words that appear exactly once
