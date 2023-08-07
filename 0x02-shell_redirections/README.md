@@ -44,3 +44,5 @@ A script that removes letters from a file
 A script that reverses its Input
 ## 22-users_and_homes
 A script that displays all users and their home directories sorted by users
+## 100-empty_casks
+A script that finds all empty files and dir in cuurent dir and sub-dir
