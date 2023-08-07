@@ -40,3 +40,5 @@ Display all lines of a file starting with a letter
 Replacing characters in a file
 ## 20-hiago
 A script that removes letters from a file
+## 21-reverse
+A script that reverses its Input
