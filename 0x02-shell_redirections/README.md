@@ -22,3 +22,5 @@ A script that duplicates last line of a file
 A script that deletes all file in a directory ending with a certain extension
 ## 11-directories
 A script that counts the number of directories in the parent dir excluding itself
+## 12-newest_files
+A script that displays 10 newest files in a directory line by line
