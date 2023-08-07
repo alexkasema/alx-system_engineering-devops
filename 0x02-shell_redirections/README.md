@@ -18,3 +18,5 @@ A script that creates a file with special characters
 A script that wirtes the output of command ls to another file
 ## 9-duplicate_last_line (tail -n 1 file1 >> file1)
 A script that duplicates last line of a file
+## 10-no_more_js
+A script that deletes all file in a directory ending with a certain extension
