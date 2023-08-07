@@ -10,3 +10,5 @@ A script that displays content of two files
 A script that displays last 10 lines of a file
 ## 5-firstlines (head file)
 A script that display the first 10 lines in a file
+## 6-third_line (head -n 3 file)
+A script that displays content of third line in a file
