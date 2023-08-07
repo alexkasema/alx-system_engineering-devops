@@ -16,3 +16,5 @@ A script that displays content of third line in a file
 A script that creates a file with special characters
 ## 8-cwd_state
 A script that wirtes the output of command ls to another file
+## 9-duplicate_last_line (tail -n 1 file1 >> file1)
+A script that duplicates last line of a file
