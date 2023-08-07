@@ -28,3 +28,5 @@ A script that displays 10 newest files in a directory line by line
 A script that takes a list of inputs and prints words that appear exactly once
 ## 14-findthatword
 A script that displays content from a file given a ceratin pattern
+## 15-countthatword
+A script that displays no. of lines from content in a file that have a certain criteria
