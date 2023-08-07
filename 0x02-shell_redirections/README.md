@@ -42,3 +42,5 @@ Replacing characters in a file
 A script that removes letters from a file
 ## 21-reverse
 A script that reverses its Input
+## 22-users_and_homes
+A script that displays all users and their home directories sorted by users
