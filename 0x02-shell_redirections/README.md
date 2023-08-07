@@ -12,3 +12,5 @@ A script that displays last 10 lines of a file
 A script that display the first 10 lines in a file
 ## 6-third_line (head -n 3 file)
 A script that displays content of third line in a file
+## 7-file (echo -e content > file-name)
+A script that creates a file with special characters
