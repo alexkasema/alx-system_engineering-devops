@@ -8,3 +8,5 @@ A script that displays content of a file
 A script that displays content of two files
 ## 4-lastlines (tail file)
 A script that displays last 10 lines of a file
+## 5-firstlines (head file)
+A script that display the first 10 lines in a file
