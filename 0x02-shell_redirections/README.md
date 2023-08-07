@@ -26,3 +26,5 @@ A script that counts the number of directories in the parent dir excluding itsel
 A script that displays 10 newest files in a directory line by line
 ## 13-unique (sort | uniq -u)
 A script that takes a list of inputs and prints words that appear exactly once
+## 14-findthatword
+A script that displays content from a file given a ceratin pattern
