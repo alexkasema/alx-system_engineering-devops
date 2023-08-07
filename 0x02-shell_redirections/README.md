@@ -38,3 +38,5 @@ A script that displays all lines in a file that do not contain a certain pattern
 Display all lines of a file starting with a letter
 ## 19-AZ
 Replacing characters in a file
+## 20-hiago
+A script that removes letters from a file
