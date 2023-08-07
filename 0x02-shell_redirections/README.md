@@ -20,3 +20,5 @@ A script that wirtes the output of command ls to another file
 A script that duplicates last line of a file
 ## 10-no_more_js
 A script that deletes all file in a directory ending with a certain extension
+## 11-directories
+A script that counts the number of directories in the parent dir excluding itself
