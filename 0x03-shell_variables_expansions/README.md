@@ -22,3 +22,5 @@ A script that divides two variables and print value
 A script that raises a number by a given exponent
 ## 11-binary_to_decimal
 A script that converts a number from base 2 to base 10
+## 12-combinations
+A script that prints out all possible combinations of two letters
