@@ -12,3 +12,5 @@ A script that prints global variables
 A script that prints out local variables
 ## 6-create_local_variable
 A script that creats a new local variable
+## 7-create_global_variable (export)
+A script that creates global variables
