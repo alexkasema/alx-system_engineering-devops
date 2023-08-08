@@ -10,3 +10,5 @@ A script that prints out the number of dir in PATH
 A script that prints global variables
 ## 5-local_variables
 A script that prints out local variables
+## 6-create_local_variable
+A script that creats a new local variable
