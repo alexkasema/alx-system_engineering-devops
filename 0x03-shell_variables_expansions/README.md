@@ -24,3 +24,5 @@ A script that raises a number by a given exponent
 A script that converts a number from base 2 to base 10
 ## 12-combinations
 A script that prints out all possible combinations of two letters
+## 13-print_float
+A script that prints a number with 2 decimal places
