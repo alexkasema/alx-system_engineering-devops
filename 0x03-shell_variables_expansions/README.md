@@ -20,3 +20,5 @@ A script that print value of adding a variable and a number
 A script that divides two variables and print value
 ## 10-love_exponent_breath (num ** num)
 A script that raises a number by a given exponent
+## 11-binary_to_decimal
+A script that converts a number from base 2 to base 10
