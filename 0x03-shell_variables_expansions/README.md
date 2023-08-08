@@ -8,3 +8,5 @@ Adding a directory into the PATH Variable
 A script that prints out the number of dir in PATH
 ## 4-global_variables
 A script that prints global variables
+## 5-local_variables
+A script that prints out local variables
