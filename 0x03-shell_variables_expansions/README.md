@@ -18,3 +18,5 @@ A script that creates global variables
 A script that print value of adding a variable and a number
 ## 9-divide_and_rule
 A script that divides two variables and print value
+## 10-love_exponent_breath (num ** num)
+A script that raises a number by a given exponent
