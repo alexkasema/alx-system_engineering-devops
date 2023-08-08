@@ -6,3 +6,5 @@ A script that prints the current user name
 Adding a directory into the PATH Variable
 ## 3-paths
 A script that prints out the number of dir in PATH
+## 4-global_variables
+A script that prints global variables
