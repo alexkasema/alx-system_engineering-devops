@@ -16,3 +16,5 @@ A script that creats a new local variable
 A script that creates global variables
 ## 8-true_knowledge
 A script that print value of adding a variable and a number
+## 9-divide_and_rule
+A script that divides two variables and print value
