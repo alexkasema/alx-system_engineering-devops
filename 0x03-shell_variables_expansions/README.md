@@ -30,3 +30,5 @@ A script that prints a number with 2 decimal places
 A script that converts a number from base 10 to base 16
 ## 101-rot13
 A script that encodes and decodes file using rot13 encryption
+## 102-odd
+A script that print out one line and skips the next
