@@ -4,3 +4,5 @@ A script that creates an alias
 A script that prints the current user name
 ## 2-path
 Adding a directory into the PATH Variable
+## 3-paths
+A script that prints out the number of dir in PATH
