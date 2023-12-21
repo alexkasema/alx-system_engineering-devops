@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#script that displays the content of the file.
+# Your script should only display:
+#	username.
+#	user id.
+#	Home directory path for the user.
+
+while IFS=":" read -r username _ id _ _ home_dir _
+do
+	echo "$username:$id:$home_dir"
+done < /etc/passwd

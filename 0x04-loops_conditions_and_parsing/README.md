@@ -20,3 +20,5 @@ A Bash script that displays: The content of the current directory, In a list for
 A Bash script that gives you information about the school file.
 # 10-fizzbuzz
 FizzBuzz
+# 100-read_and_cut
+Bash script that displays the content of a file
