@@ -11,3 +11,5 @@ A Bash script that displays the PID, along with the process name, of processes w
 A Bash script that displays To infinity and beyond indefinitely.
 # 5-dont_stop_me_now
 A Bash script that stops 4-to_infinity_and_beyond process.
+# 6-stop_me_if_you_can
+A Bash script that stops 4-to_infinity_and_beyond process. You cannot use kill or killall
