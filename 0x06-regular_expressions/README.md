@@ -8,3 +8,5 @@ Repetition Token {m, n} m to n repetitions
 Repetition Token ? matches 0 or 1 occurrence of a token.
 # 3-repetition_token_2.rb
 Repetition Token + matches 1 or more occurrence of a token.
+# 4-repetition_token_3.rb
+Repetition Token * matches 0 or more occurrence of a token
