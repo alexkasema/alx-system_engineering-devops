@@ -6,3 +6,5 @@ Simply matching School
 Repetition Token {m, n} m to n repetitions
 # 2-repetition_token_1.rb
 Repetition Token ? matches 0 or 1 occurrence of a token.
+# 3-repetition_token_2.rb
+Repetition Token + matches 1 or more occurrence of a token.
