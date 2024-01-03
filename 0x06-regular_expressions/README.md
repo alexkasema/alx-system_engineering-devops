@@ -14,3 +14,5 @@ Repetition Token * matches 0 or more occurrence of a token
 The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between.
 # 6-phone_number.rb
 The regular expression must match a 10 digit phone number.
+# 7-OMG_WHY_ARE_YOU_SHOUTING.rb
+The regular expression must be only matching: capital letters [A-Z]
