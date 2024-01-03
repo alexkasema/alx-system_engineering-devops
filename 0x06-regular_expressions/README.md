@@ -10,3 +10,5 @@ Repetition Token ? matches 0 or 1 occurrence of a token.
 Repetition Token + matches 1 or more occurrence of a token.
 # 4-repetition_token_3.rb
 Repetition Token * matches 0 or more occurrence of a token
+# 5-beginning_and_end.rb
+The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between.
