@@ -6,3 +6,5 @@ A Bash script that uses ssh to connect to your server using the private key, wit
 Your machine has an SSH configuration file for the local SSH client, let’s configure it to our needs so that you can connect to a server without typing a password.
 * Your SSH client configuration must be configured to use the private key ~/.ssh/school.
 * Your SSH client configuration must be configured to refuse to authenticate using a password.
+## 100-puppet_ssh_config.pp
+Client configuration file (w/ Puppet)
