@@ -6,7 +6,7 @@ exec { 'apt-update':
 
 package { 'nginx':
   ensure => 'installed',
-  name   => 'nginx'
+  name   => 'nginx',
 }
 
 file_line { 'append a line in nginx conf file':
@@ -16,5 +16,5 @@ file_line { 'append a line in nginx conf file':
 }
 
 exec { 'sudo service nginx restart':
-  command => '/usr/sbin/service nginx start',
+  command => '/usr/sbin/service nginx restart',
 }
