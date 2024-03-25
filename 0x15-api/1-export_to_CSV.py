@@ -10,7 +10,7 @@ if __name__ == '__main__':
     user_id = sys.argv[1]
     url = 'https://jsonplaceholder.typicode.com/users/{}'.format(user_id)
     res = get(url)
-    name = res.json().get('name')
+    username = res.json().get('username')
 
     url = 'https://jsonplaceholder.typicode.com/users/{}/todos'.format(user_id)
     res = get(url)
@@ -19,5 +19,5 @@ if __name__ == '__main__':
     with open('{}.csv'.format(user_id), 'w') as file:
         for task in tasks:
             file.write('"{}","{}","{}","{}"\n'
-                       .format(user_id, name, task.get('completed'),
+                       .format(user_id, username, task.get('completed'),
                                task.get('title')))
