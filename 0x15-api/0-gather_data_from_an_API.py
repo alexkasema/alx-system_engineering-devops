@@ -2,8 +2,8 @@
 
 """ Gather data from an API """
 
-import sys
 from requests import get
+import sys
 
 
 if __name__ == '__main__':
@@ -24,7 +24,7 @@ if __name__ == '__main__':
             completed_tasks.append(task)
             completed += 1
 
-    print('Employee {} is done with tasks({}/{})'
+    print('Employee {} is done with tasks({}/{}):'
           .format(name, completed, len(tasks)))
 
     for task in completed_tasks:
