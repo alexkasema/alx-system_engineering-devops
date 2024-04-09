@@ -18,7 +18,7 @@ def number_of_subscribers(subreddit):
             Chrome/123.0.0.0 Safari/537.36'
             }
 
-    res = get(url).json()
+    res = get(url, headers=headers).json()
 
     try:
         subs = res.get('data').get('subscribers')
